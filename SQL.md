@@ -1,1 +1,0 @@
-- SQL keywords **are not case-sensitive**

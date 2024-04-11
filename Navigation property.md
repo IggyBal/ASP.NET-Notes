@@ -1,0 +1,2 @@
+- provide a way to navigate/manage an association/relationship between two entity types (in both directions)
+- every object can have a navigation property for every relationship

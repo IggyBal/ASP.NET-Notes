@@ -1,0 +1,2 @@
+- represents a connection/session with the database
+- all business model logic (directly interacting with the database) operations go through ApplicationDbContext 

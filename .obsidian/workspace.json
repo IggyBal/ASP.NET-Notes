@@ -6,7 +6,7 @@
       {
         "id": "0d6166db87b94647",
         "type": "tabs",
-        "dimension": 48.6873508353222,
+        "dimension": 71.68998923573736,
         "children": [
           {
             "id": "59f5e6b022fb2c68",
@@ -62,19 +62,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Client-server model.md",
+                "file": "ignore/Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6abbcfd3cf8e9264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP.NET Core MVC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6d0add02e817a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ApplicationDbContext.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dceb906e1a8963a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IEnumerable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "101859e64a565803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navigation property.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bffc63c454706958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entity Framework Core.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       },
       {
         "id": "0661f673de28d958",
         "type": "tabs",
-        "dimension": 51.3126491646778,
+        "dimension": 28.31001076426265,
         "children": [
           {
             "id": "8822be04d1c43125",
@@ -150,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Client-server model.md",
+                "file": "Entity Framework Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Client-server model.md",
+                "file": "Entity Framework Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Client-server model.md"
+                "file": "Entity Framework Core.md"
               }
             }
           }
@@ -211,15 +271,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b93acaf10a58bd72",
+  "active": "bffc63c454706958",
   "lastOpenFiles": [
-    "gRPC.md",
+    "Language Integrated Query.md",
+    "Entity Framework Core.md",
+    "Language.md",
+    "Navigation property.md",
+    "IEnumerable.md",
+    "ApplicationDbContext.md",
     "ASP.NET Core MVC.md",
-    "AJAX.md",
-    "Client-server model.md",
+    "Pasted image 20240411135609.png",
+    "Razor.md",
+    "ignore/Tasks.md",
+    "Structured Query Language (SQL).md",
     "Remote Procedure Call (RPC).md",
+    "ignore",
+    "New folder",
+    "New Text Document.txt",
+    "gRPC.md",
     "SignalR.md",
-    "SQL.md",
+    "Client-server model.md",
+    "AJAX.md",
+    "Middleware.md",
     "Untitled.canvas",
     "actions.md",
     "ASP.NET Routing.md",

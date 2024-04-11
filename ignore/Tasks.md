@@ -1,0 +1,9 @@
+- [x] SQL 
+- [x] Controllers vs Views
+- [ ] Blazor
+	- [ ] @bind
+	- [ ] Potentially replace AJAX calls
+	- [ ] @code 
+- [ ] Models
+	- [ ] Models to Database - because you don't just CREATE a table directly into the database with EF, *though that opportunity can be explored*
+- [ ] 
