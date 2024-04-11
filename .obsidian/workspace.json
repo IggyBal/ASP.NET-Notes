@@ -6,19 +6,8 @@
       {
         "id": "0d6166db87b94647",
         "type": "tabs",
+        "dimension": 48.6873508353222,
         "children": [
-          {
-            "id": "a4f5daff7bb14ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "59f5e6b022fb2c68",
             "type": "leaf",
@@ -37,18 +26,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote Procedure Call (RPC).md",
+                "file": "gRPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d429c3e430eb51f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AJAX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77c3140c2e943eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gRPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b93acaf10a58bd72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Client-server model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "0661f673de28d958",
         "type": "tabs",
+        "dimension": 51.3126491646778,
         "children": [
           {
             "id": "8822be04d1c43125",
@@ -108,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c1413bdcd894e8d9",
@@ -124,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Client-server model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Client-server model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Client-server model.md"
+              }
             }
           }
         ]
@@ -181,10 +211,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8822be04d1c43125",
+  "active": "b93acaf10a58bd72",
   "lastOpenFiles": [
-    "Remote Procedure Call (RPC).md",
     "gRPC.md",
+    "ASP.NET Core MVC.md",
+    "AJAX.md",
+    "Client-server model.md",
+    "Remote Procedure Call (RPC).md",
+    "SignalR.md",
+    "SQL.md",
+    "Untitled.canvas",
+    "actions.md",
+    "ASP.NET Routing.md",
     "Welcome.md"
   ]
 }
