@@ -3,7 +3,7 @@
 - Data access is performed using a model
 	- a model is made up of 
 		- **entity classes** (tables) and 
-		- a **context object** (`ApplicationDbContext`) that represents a session with the database
+		- a **context object** ([[ApplicationDbContext]]) that represents a session with the database
 			- allows querying and saving data
 - Instances of entity classes are retrieved using [LINQ](obsidian://open?vault=ASP-Notes&file=Language%20Integrated%20Query).
 ```c#

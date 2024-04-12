@@ -1,4 +1,8 @@
 #asp-net
+## Technologies
+- [[Razor]]
+- [[Entity Framework Core]]
+- [[Dependency Injection (DI)]]
 ## Views
 - handles data presentation and user interaction
 - a view is an HTML template with [[Razor]] markup
@@ -178,7 +182,7 @@ When `@model` is not declared, but have a model instance passed (e.g. `return Vi
 ```
 ##### [CSS Isolation](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-8.0#css-isolation)
 ## Routing
-- ASP.NET Core controllers use Routing [middleware](Middleware) to match URLs of incoming requests and map them to actions
+- ASP.NET Core controllers use Routing [middleware](Middleware.md) to match URLs of incoming requests and map them to actions
 	- Routing middleware: `UseRouting` and `UseEndpoints`
 		- Apps don't need to call these since `WebApplicationBuilder` wraps middleware added to `Program.cs` with `UseRouting` and `UseEndpoints`
 	- Call `MapControllers` to map attribute-routed controllers
